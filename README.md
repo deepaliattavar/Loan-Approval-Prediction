@@ -51,5 +51,3 @@ Loan approval decisions are often time-consuming and prone to manual bias. This 
 - **Notebook:** Jupyter Notebook
 
 ---
-
-## 📂 Repository Structure
